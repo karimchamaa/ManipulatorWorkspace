@@ -1,2 +1,2 @@
 # ManipulatorWorkspace
-Generation of n-DOF Serial Robotic Manipulator Workspace
+Generating a three dimensional graphical representation of any n-DOF serial robotic manipulator workspace using Matlab!
