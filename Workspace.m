@@ -107,4 +107,4 @@ axis equal;
 xlabel('x-axis');%Label the axix. 
 ylabel('y-axis');
 zlabel('z-axis');
-title('Reachable and Singular Workspace');
+title('Reachable Workspace');
