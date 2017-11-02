@@ -5,4 +5,4 @@ Two plots are generated, the first represent a point cloud whereas the second re
 An example of 3-DOF RPP Manipulator is included for demonstration purposes. 
 
 
-![alt text](Example 3-DOF RPP Manipulator.jpg)
+![alt text](Example.png)
